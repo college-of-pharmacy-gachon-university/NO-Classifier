@@ -5,3 +5,7 @@ In other words, NO-Classifer is a predictive model of the nitric oxide (NO) inhi
 
 Molecular Feature: location information of molecular conformation
 Label: IC50 of nitric oxide (NO) production assay in LPS-induced microglia activation 
+
+Citation: 
+Lee, S.E., Ahn, S., Kumar, S. et al. NO classifier prediction of anti neuroinflammatory agents using text mining of 3D molecular fingerprints. Sci Rep 14, 28338 (2024). 
+https://doi.org/10.1038/s41598-024-78823-3
